@@ -1,5 +1,12 @@
-#include<stdio.h>
-void main()
-{
-printf("Hello World");
-}
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>First Web Page</title>
+</head>
+
+<body>
+    Hello World!
+</body>
+
+</html>
